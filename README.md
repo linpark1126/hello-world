@@ -11,3 +11,5 @@
 This is an example of a GitHub repository.
 
 Typing something.
+
+Typing something for the second time.
